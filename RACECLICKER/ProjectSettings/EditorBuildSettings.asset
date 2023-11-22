@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bf4581a66b649fb45b124743401f3d35
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 7cafe4a87d4eadd4a97bdb4c1ffb816e
+  - enabled: 1
+    path: Assets/Scenes/HistoryCar.unity
+    guid: f270e424addda6f4a909b427d6a71833
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: a598829642b022a4aa01a778dc7d3420, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4542bd9e900334641b9f19efafdf8525, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 667ef8927a5ee154f89694b5fff2aa6f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 546774869e4253d4d868788e59146632, type: 2}
